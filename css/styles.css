@@ -308,6 +308,10 @@ p {
   bottom: 0;
 }
 
+.doing-list-item > img {
+  display: block;
+}
+
 /*-----END WHAT DO WE DO-----*/
 
 /*----OUR TEAM----*/
